@@ -67,5 +67,5 @@ After running the script, you should see a CSV file named `amazon_products.csv` 
 - **Amazon Anti-Scraping**: Amazon has strict scraping policies. Use this script responsibly and avoid frequent requests to prevent being blocked.
 - **Data Accuracy**: Some data points may be missing or inaccurate if they’re dynamically loaded. The script currently handles only statically loaded data.
 
-Replace `` with your actual GitHub repository URL, and add the video link at the end once uploaded.
+Replace `https://github.com/Ajinkya259/Amazon-Product-Scraper` with your actual GitHub repository URL, and add the video link at the end once uploaded.
 
